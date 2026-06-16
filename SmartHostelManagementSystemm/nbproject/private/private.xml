@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/studentDashboard.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/dao/ComplaintDAO.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/model/Complaint.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/viewComplaints.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/dao/ApplicationDAO.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/ComplaintServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/addRoom.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/applyRoom.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/complaint.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/dashboard.jsp</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/AddRoomServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/ApplyRoomServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/UpdateComplaintServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/model/User.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/dao/RoomDAO.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/model/Application.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/src/java/controller/DeleteUserServlet.java</file>
+            <file>file:/C:/Users/User/OneDrive/Documents/NetBeansProjects/SmartHostelManagementSystemm/web/myApplications.jsp</file>
+        </group>
+    </open-files>
+</project-private>
